@@ -1,2 +1,1 @@
-# Email-Sender
-This is a sample code used to send email 
+These are my projects I am using to practise python in 
